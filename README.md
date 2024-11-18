@@ -29,6 +29,8 @@ https://rosnedra.gov.ru/press/informatsionnye-materialy/dopolnenie_k_razdelu_otk
 **[Банк пространственных данных- Схема наличия карт, ДЗЗ, матриц высот](https://spatialdb.net)**         
 
 ### 📄 Lists
+**[Open Geoscience: Data Repositories](https://github.com/softwareunderground/awesome-open-geoscience?tab=readme-ov-file#data-repositories)**                                    
+https://github.com/softwareunderground/awesome-open-geoscience?tab=readme-ov-file#data-repositories
 **[Github: open-russian-data](https://github.com/abnegantes/open-russian-data)**           
 **https://github.com/SamiranDas1311/Geological-Mining-Seismic-Dataset-Collection-GeMiSe-**                     
 **https://github.com/arredond/geology-open-data**      
