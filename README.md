@@ -42,11 +42,11 @@ https://github.com/zyabo/Awesome-TimeSeries-FoundationModels
 **[Fatiando a Terra FAIR data collection](https://github.com/fatiando-data)**                                  
 
 **Australia**  
-https://github.com/GeoscienceAustralia            
-https://github.com/GeoscienceAustralia/FSDF - Foundation Base Spatial Data - Linked Data             
-https://digital.atlas.gov.au/
-https://link.fsdf.org.au/dataset/
-https://link.fsdf.org.au/dataset/dynamic-land-cover-dataset                              
+https://github.com/GeoscienceAustralia                       
+https://github.com/GeoscienceAustralia/FSDF - Foundation Base Spatial Data - Linked Data                           
+https://digital.atlas.gov.au/               
+https://link.fsdf.org.au/dataset/                 
+https://link.fsdf.org.au/dataset/dynamic-land-cover-dataset                                       
 
 https://portal.onegeology.org/OnegeologyGlobal                   
 
