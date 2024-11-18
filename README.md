@@ -44,6 +44,7 @@ https://github.com/Ran-Jia/GeoStack - stacking method of machine learning applie
 https://github.com/geobrain-ai/geogalactica - LLM      
 
 ### 👨 Users                
+**https://github.com/fatiando-data** - data collection                                   
 **https://github.com/geobrain-ai** - Using AI to reshape Geoscience research              
 **https://github.com/GeostatsGuy**                 
 https://github.com/RichardScottOZ             
