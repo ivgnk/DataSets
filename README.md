@@ -27,6 +27,7 @@ https://worldstrat.github.io/
 
 [Geoscience-Data-Quality-for-Machine-Learning](https://github.com/RichardScottOZ/Geoscience-Data-Quality-for-Machine-Learning)            
 
+[Awesome Remote Sensing Relative Radiometric Normalization (RNN) Datasets](https://github.com/ArminMoghimi/Awesome-Remote-Sensing-Relative-Radiometric-Normalization-Datasets)                                             
 
 Geostatistics                 
 https://github.com/GeostatsGuy/GeoDataSets                                   
@@ -35,7 +36,8 @@ https://github.com/GeostatsGuy/GeoDataSets
 https://github.com/Ran-Jia/GeoStack - stacking method of machine learning applied to geological/physical datasets for 3D geomodeling                      
 https://github.com/geobrain-ai/geogalactica - LLM      
 
-### 👨 Users                      
+### 👨 Users                
+**https://github.com/geobrain-ai** - Using AI to reshape Geoscience research              
 **https://github.com/GeostatsGuy**                 
 https://github.com/RichardScottOZ             
 https://github.com/strawpants                    
