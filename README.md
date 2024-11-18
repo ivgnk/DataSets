@@ -11,8 +11,7 @@ https://github.com/search?q=datasets%20for%20geosciences&type=repositories
 [Источники открытых геолого-геофизических данных](https://wiki.gis-lab.info/w/Источники_открытых_геолого-геофизических_данных)             
 
 [В России создали базу данных для обучения геологических систем ИИ](https://ai.gov.ru/mediacenter/v-rossii-sozdali-bazu-dannykh-dlya-obucheniya-geologicheskikh-sistem-ii/)             
-https://www.cnews.ru/news/line/2023-09-04_issledovateli_sbera_vmeste
-https://habr.com/ru/news/758804/
+Other 2022-2023 news [1](https://www.cnews.ru/news/line/2023-09-04_issledovateli_sbera_vmeste), [2](https://habr.com/ru/news/758804), [3](https://www.comnews.ru/content/230473/2023-11-30/2023-w48/1230/1233/cifrovaya-geologiya-grant-rfrit-i-vnedrenie-rosgeo-otkroet-mirovoy-rynok-rossiyskoy-platforme-dlya-raboty-geologicheskimi-dannymi)                
 
 [ИНИД - данные для всех](https://data.rcsi.science)                    
 
