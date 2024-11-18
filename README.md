@@ -5,11 +5,11 @@
 ## 🌍 Geosciences                         
 https://github.com/search?q=geology+dataset+&type=repositories                           
 
-### Lists
+### 📄 Lists
 **https://github.com/SamiranDas1311/Geological-Mining-Seismic-Dataset-Collection-GeMiSe-**                     
 **https://github.com/arredond/geology-open-data**        
 
-#### Data sets
+#### 💿 Data sets
 Plotly                          
 **https://github.com/plotly/datasets/blob/master/globe_contours.csv**               
 https://github.com/plotly/datasets/blob/master/volcano.csv             
@@ -31,7 +31,7 @@ https://worldstrat.github.io/
 Geostatistics                 
 https://github.com/GeostatsGuy/GeoDataSets                                   
 
-### ML              
+### 🚗 ML              
 https://github.com/Ran-Jia/GeoStack       
 
 ### 👨 Users                      
