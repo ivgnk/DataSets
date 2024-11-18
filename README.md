@@ -10,7 +10,7 @@ https://github.com/search?q=geology+dataset+&type=repositories
 **https://github.com/arredond/geology-open-data**        
 
 #### Data sets
-##### Plotly
+Plotly
 **https://github.com/plotly/datasets/blob/master/globe_contours.csv**               
 https://github.com/plotly/datasets/blob/master/volcano.csv             
 
