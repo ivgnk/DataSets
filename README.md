@@ -4,6 +4,7 @@
 
 ## 🌍 Geosciences                         
 https://github.com/search?q=geology+dataset+&type=repositories                           
+https://github.com/search?q=datasets%20for%20geosciences&type=repositories
 
 ### 📄 Lists
 **https://github.com/SamiranDas1311/Geological-Mining-Seismic-Dataset-Collection-GeMiSe-**                     
