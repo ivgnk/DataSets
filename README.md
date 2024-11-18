@@ -16,8 +16,13 @@ https://habr.com/ru/news/758804/
 
 [ИНИД - данные для всех](https://data.rcsi.science)                    
 
-**Недра России**
+**Недра России**                     
 https://webmapget.staging.vsegei.ru      
+
+[Готовые геоданные для ваших проектов](https://data.nextgis.com/ru/)             
+https://data.nextgis.com/ru/region/RU-PER/base/ - более 30 видов данных о территории:                
+административное деление, дорожная сеть, здания, водоемы и реки, туристические объекты, городская инфраструктура и многое другое.              
+Базовая карта основана на данных OpenStreetMap                         
 
 **Росгеолфонд**                 
 https://rosnedra.gov.ru/press/informatsionnye-materialy/dopolnenie_k_razdelu_otkrytye_dannye_sayt_rosgeolfonda_ssylki_na_otkrytye_dannye/                
@@ -25,6 +30,7 @@ https://rosnedra.gov.ru/press/informatsionnye-materialy/dopolnenie_k_razdelu_otk
 **[Банк пространственных данных- Схема наличия карт, ДЗЗ, матриц высот](https://spatialdb.net)**         
 
 ### 📄 Lists
+**[Github: open-russian-data](https://github.com/abnegantes/open-russian-data)**           
 **https://github.com/SamiranDas1311/Geological-Mining-Seismic-Dataset-Collection-GeMiSe-**                     
 **https://github.com/arredond/geology-open-data**      
 **https://github.com/zyabo/iEarthDatasets**              
