@@ -23,15 +23,21 @@ https://worldstrat.github.io/
 
 [Holocene Volcanoes (Smithsonian)](https://volcano.si.edu)
 
-
 [Undiscovered Oil and Gas Resources: U.S. Geological Survey (2012)](https://pubs.er.usgs.gov/publication/ds69FF)           
 
+[Geoscience-Data-Quality-for-Machine-Learning](https://github.com/RichardScottOZ/Geoscience-Data-Quality-for-Machine-Learning)            
+
+
 Geostatistics                 
-👨 **https://github.com/GeostatsGuy**             
 https://github.com/GeostatsGuy/GeoDataSets                                   
 
 ### ML              
-https://github.com/Ran-Jia/GeoStack             
+https://github.com/Ran-Jia/GeoStack       
+
+### 👨 Users                      
+**https://github.com/GeostatsGuy**                 
+https://github.com/RichardScottOZ                         
+
 
 ## Non-Geosciences                   
 ###  
