@@ -32,7 +32,7 @@ Geostatistics
 https://github.com/GeostatsGuy/GeoDataSets                                   
 
 ### 🚗 ML              
-https://github.com/Ran-Jia/GeoStack - stacking method of machine learning applied to geological geophysical datasets for 3D geological modeling                      
+https://github.com/Ran-Jia/GeoStack - stacking method of machine learning applied to geological/physical datasets for 3D geomodeling                      
 https://github.com/geobrain-ai/geogalactica - LLM      
 
 ### 👨 Users                      
