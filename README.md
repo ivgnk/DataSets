@@ -17,7 +17,12 @@ https://habr.com/ru/news/758804/
 [ИНИД - данные для всех](https://data.rcsi.science)                    
 
 **Недра России**
-https://webmapget.staging.vsegei.ru                 
+https://webmapget.staging.vsegei.ru      
+
+**Росгеолфонд**                 
+https://rosnedra.gov.ru/press/informatsionnye-materialy/dopolnenie_k_razdelu_otkrytye_dannye_sayt_rosgeolfonda_ssylki_na_otkrytye_dannye/                
+
+**[Банк пространственных данных- Схема наличия карт, ДЗЗ, матриц высот](https://spatialdb.net)**         
 
 ### 📄 Lists
 **https://github.com/SamiranDas1311/Geological-Mining-Seismic-Dataset-Collection-GeMiSe-**                     
@@ -28,6 +33,7 @@ https://github.com/zyabo/Awesome-TimeSeries-FoundationModels
 2023 [Три открытых ресурса с геологическими данными](https://cartetika.ru/tpost/g6dop9luc1-tri-otkritih-resursa-s-geologicheskimi-d)             
 
 #### 💿 Data sets
+**[Geology Datasets](https://dagshub.com/datasets/geology/)**                                     
 **[Fatiando a Terra FAIR data collection](https://github.com/fatiando-data)**                                  
 
 **Australia**  
@@ -71,6 +77,10 @@ https://github.com/GeostatsGuy/GeoDataSets
 ### 🚗 ML              
 https://github.com/Ran-Jia/GeoStack - stacking method of machine learning applied to geological/physical datasets for 3D geomodeling                      
 https://github.com/geobrain-ai/geogalactica - LLM      
+
+
+### 🏢 Org 
+https://dagshub.com - AI platform      
 
 ### 👨 Users                
 **https://github.com/fatiando-data** - data collection                                   
