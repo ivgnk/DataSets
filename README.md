@@ -1,6 +1,6 @@
 # DataSets
-❗❗ **https://github.com/topics/dataset**
-❗https://github.com/topics/dataset?l=python
+❗❗ **https://github.com/topics/dataset**                   
+❗https://github.com/topics/dataset?l=python                  
 
 ## 🌍 Geosciences                         
 ### 🔍 Search 
@@ -12,16 +12,18 @@ https://github.com/search?q=datasets%20for%20geosciences&type=repositories
 **https://github.com/arredond/geology-open-data**        
 
 #### 💿 Data sets
-Plotly                          
-**https://github.com/plotly/datasets/blob/master/globe_contours.csv**               
-https://github.com/plotly/datasets/blob/master/volcano.csv             
-
+**[Fatiando a Terra FAIR data collection](https://github.com/fatiando-data)**                                  
 
 
 WorldStrat Dataset                                
 **[Open High-Resolution Satellite Imagery With Paired Multi-Temporal Low-Resolution](https://zenodo.org/records/6810792)**                   
 https://github.com/worldstrat/worldstrat               
 https://worldstrat.github.io/            
+
+Plotly                          
+**https://github.com/plotly/datasets/blob/master/globe_contours.csv**               
+https://github.com/plotly/datasets/blob/master/volcano.csv  
+
 
 [Holocene Volcanoes (Smithsonian)](https://volcano.si.edu)
 
@@ -32,6 +34,7 @@ https://worldstrat.github.io/
 [Awesome Remote Sensing Relative Radiometric Normalization (RNN) Datasets](https://github.com/ArminMoghimi/Awesome-Remote-Sensing-Relative-Radiometric-Normalization-Datasets)                                             
 
 [Observational constraints on residual topography and synthetic topographic predictions for the geodynamical models](https://github.com/drhodrid/Davies_etal_NGeo_2019_Datasets)                      
+https://github.com/drhodrid/Davies_etal_2022_observations_models_dynamic_topography                 
 
 Geostatistics                 
 https://github.com/GeostatsGuy/GeoDataSets                                   
