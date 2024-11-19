@@ -30,6 +30,8 @@ https://rosnedra.gov.ru/press/informatsionnye-materialy/dopolnenie_k_razdelu_otk
 **[Банк пространственных данных- Схема наличия карт, ДЗЗ, матриц высот](https://spatialdb.net)**         
 
 ### 📄 Lists
+🚩 **[Natural Earth is a public domain map dataset available at 1:10m, 1:50m, and 1:110 million scales](https://www.naturalearthdata.com/)**                                        
+
 **[Open Geoscience: Data Repositories](https://github.com/softwareunderground/awesome-open-geoscience?tab=readme-ov-file#data-repositories)**                                    
 https://github.com/softwareunderground/awesome-open-geoscience?tab=readme-ov-file#data-repositories
 **[Github: open-russian-data](https://github.com/abnegantes/open-russian-data)**           
@@ -41,6 +43,8 @@ https://github.com/zyabo/Awesome-TimeSeries-FoundationModels
 2023 [Три открытых ресурса с геологическими данными](https://cartetika.ru/tpost/g6dop9luc1-tri-otkritih-resursa-s-geologicheskimi-d)             
 
 #### 💿 Data sets
+
+
 **[Geology Datasets](https://dagshub.com/datasets/geology/)**                                     
 **[Fatiando a Terra FAIR data collection](https://github.com/fatiando-data)**                                  
 
