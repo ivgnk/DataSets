@@ -112,7 +112,7 @@ https://github.com/strawpants
 https://github.com/zhu-xlab - Data Science in Earth Observation          
 
 ## ☀️ Non-Geosciences                            
-**[UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/)**                                   
+🚩 **[UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/)**                                   
 
 
 
