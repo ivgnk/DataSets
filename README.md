@@ -3,6 +3,15 @@
 ❗https://github.com/topics/dataset?l=python        
 🔴 https://github.com/topics/geoscience                
 
+## ✅ Wiki                
+**https://en.wikipedia.org/wiki/Category:Statistical_data_sets**                
+**https://en.wikipedia.org/wiki/Category:Datasets_in_machine_learning**
+
+https://en.wikipedia.org/wiki/Data_set#Classic_data_sets                  
+**https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research**                                               
+**https://en.wikipedia.org/wiki/Iris_flower_data_set**         
+https://en.wikipedia.org/wiki/List_of_datasets_in_computer_vision_and_image_processing                        
+
 ## 🌍 Geosciences                         
 ### 🔍 Search 
 https://github.com/search?q=geology+dataset+&type=repositories                           
