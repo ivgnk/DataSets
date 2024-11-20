@@ -12,7 +12,8 @@ https://en.wikipedia.org/wiki/Data_set#Classic_data_sets
 **https://en.wikipedia.org/wiki/Iris_flower_data_set**         
 https://en.wikipedia.org/wiki/List_of_datasets_in_computer_vision_and_image_processing                        
 
-## ☀️ Non-Geosciences                            
+## ☀️ Non-Geosciences   
+🚩 **[Kaggle datasets](https://www.kaggle.com/datasets)**                                          
 🚩 **[UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/)**                                             
 🚩 **[Curated Dataset for Computer Vision](https://datasetninja.com)**                     
 
