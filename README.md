@@ -15,7 +15,8 @@ https://en.wikipedia.org/wiki/List_of_datasets_in_computer_vision_and_image_proc
 ## ☀️ Non-Geosciences   
 🚩 **[Kaggle datasets](https://www.kaggle.com/datasets)**                                          
 🚩 **[UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/)**                                             
-🚩 **[Curated Dataset for Computer Vision](https://datasetninja.com)**                     
+🚩 **[Curated Dataset for Computer Vision](https://datasetninja.com)**     
+2023 [100 датасетов для скачивания](https://vc.ru/u/1389654-machine-learning/596807-100-datasetov-dlya-skachivaniya)              
 
 ### Plotly                 
 https://github.com/plotly/datasets            
