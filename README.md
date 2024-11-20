@@ -12,6 +12,14 @@ https://en.wikipedia.org/wiki/Data_set#Classic_data_sets
 **https://en.wikipedia.org/wiki/Iris_flower_data_set**         
 https://en.wikipedia.org/wiki/List_of_datasets_in_computer_vision_and_image_processing                        
 
+## ☀️ Non-Geosciences                            
+🚩 **[UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/)**                                             
+🚩 **[Curated Dataset for Computer Vision](https://datasetninja.com)**                     
+
+### Plotly                 
+https://github.com/plotly/datasets            
+https://plotly.github.io/datasets         
+
 ## 🌍 Geosciences                         
 ### 🔍 Search 
 https://github.com/search?q=geology+dataset+&type=repositories                           
@@ -110,13 +118,3 @@ https://dagshub.com - AI platform
 https://github.com/RichardScottOZ             
 https://github.com/strawpants                    
 https://github.com/zhu-xlab - Data Science in Earth Observation          
-
-## ☀️ Non-Geosciences                            
-🚩 **[UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/)**                                   
-
-
-
-
-### Plotly                 
-https://github.com/plotly/datasets            
-https://plotly.github.io/datasets         
