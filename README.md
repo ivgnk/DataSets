@@ -119,3 +119,7 @@ https://dagshub.com - AI platform
 https://github.com/RichardScottOZ             
 https://github.com/strawpants                    
 https://github.com/zhu-xlab - Data Science in Earth Observation          
+
+- - -
+# Programs 
+http://gwyddion.net/documentation/user-guide-ru                     
